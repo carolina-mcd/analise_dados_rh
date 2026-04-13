@@ -1,0 +1,301 @@
+id_funcionario,nome,idade,genero,estado_civil,cidade,departamento,cargo,nivel,salario_mensal,data_admissao,data_saida,ativo,motivo_saida,nota_desempenho,horas_treinamento_ano,satisfacao_trabalho,num_promacoes,distancia_casa_km
+F0001,Funcionário 1,27,Feminino,Solteiro(a),São Paulo,Marketing,Analista de Marketing,Júnior,3194.77,2018-04-13,,Sim,,9.2,69,1,0,33
+F0002,Funcionário 2,39,Feminino,Solteiro(a),Fortaleza,Operações,Analista de Operações,Sênior,10387.84,2024-04-17,2025-09-11,Não,Desligamento,8.7,57,4,0,10
+F0003,Funcionário 3,56,Masculino,Viúvo(a),São Paulo,Comercial,SDR,Pleno,6028.68,2019-02-23,2020-09-21,Não,Aposentadoria,7.2,58,5,2,24
+F0004,Funcionário 4,36,Feminino,Viúvo(a),Belo Horizonte,Operações,Supervisor,Sênior,12933.5,2018-10-12,2021-10-29,Não,Acordo,7.6,109,3,0,23
+F0005,Funcionário 5,57,Masculino,Divorciado(a),Fortaleza,Comercial,SDR,Júnior,4123.37,2018-10-20,,Sim,,8.0,118,1,0,3
+F0006,Funcionário 6,53,Masculino,Viúvo(a),Rio de Janeiro,Financeiro,Tesoureiro,Sênior,9916.05,2021-01-01,2024-09-03,Não,Aposentadoria,8.5,83,2,0,36
+F0007,Funcionário 7,25,Feminino,Casado(a),Recife,Operações,Coordenador,Pleno,5692.17,2022-10-21,,Sim,,9.0,11,2,1,28
+F0008,Funcionário 8,22,Feminino,Solteiro(a),Recife,Operações,Analista de Operações,Especialista,16321.52,2022-04-26,,Sim,,7.2,70,5,1,50
+F0009,Funcionário 9,33,Feminino,Solteiro(a),Fortaleza,Marketing,Social Media,Júnior,2980.11,2019-04-02,,Sim,,6.8,64,3,2,33
+F0010,Funcionário 10,55,Feminino,Divorciado(a),Curitiba,Operações,Supervisor,Júnior,4476.76,2019-09-19,,Sim,,4.8,118,1,0,24
+F0011,Funcionário 11,56,Feminino,Casado(a),Recife,Financeiro,Contador,Especialista,13328.16,2018-08-26,2025-07-03,Não,Acordo,6.6,97,5,0,34
+F0012,Funcionário 12,41,Masculino,Divorciado(a),Curitiba,Operações,Gerente,Sênior,11604.4,2020-05-17,,Sim,,7.2,91,5,0,16
+F0013,Funcionário 13,26,Feminino,Divorciado(a),São Paulo,Comercial,Vendedor,Júnior,3321.84,2021-10-16,2025-05-22,Não,Desligamento,9.1,29,3,1,14
+F0014,Funcionário 14,34,Masculino,Viúvo(a),Belo Horizonte,Operações,Supervisor,Júnior,3719.93,2024-05-27,,Sim,,8.1,52,4,0,56
+F0015,Funcionário 15,49,Masculino,Viúvo(a),Rio de Janeiro,Marketing,Analista de Marketing,Sênior,8991.71,2019-02-08,2023-05-27,Não,Pedido Demissão,7.9,17,4,2,55
+F0016,Funcionário 16,37,Masculino,Viúvo(a),Curitiba,Operações,Analista de Operações,Pleno,5139.85,2018-07-27,,Sim,,8.9,11,2,2,58
+F0017,Funcionário 17,57,Feminino,Viúvo(a),Rio de Janeiro,Tecnologia,Dev Backend,Júnior,4209.91,2022-04-02,2024-12-06,Não,Desligamento,5.7,93,3,0,4
+F0018,Funcionário 18,32,Masculino,Solteiro(a),Fortaleza,Operações,Analista de Operações,Pleno,7582.35,2021-07-08,2025-04-14,Não,Desligamento,7.6,67,1,1,44
+F0019,Funcionário 19,58,Feminino,Divorciado(a),Rio de Janeiro,Comercial,Coordenador Comercial,Pleno,6663.08,2019-05-07,,Sim,,7.8,84,3,0,26
+F0020,Funcionário 20,58,Não-binário,Solteiro(a),Porto Alegre,Comercial,SDR,Sênior,8826.44,2023-02-16,,Sim,,7.4,58,2,1,9
+F0021,Funcionário 21,55,Masculino,Divorciado(a),Recife,Financeiro,Analista Financeiro,Júnior,4288.15,2020-09-27,,Sim,,6.6,103,1,2,9
+F0022,Funcionário 22,43,Masculino,Divorciado(a),Porto Alegre,Financeiro,Analista Financeiro,Júnior,3418.77,2019-03-15,,Sim,,5.2,26,4,0,59
+F0023,Funcionário 23,50,Feminino,Viúvo(a),Porto Alegre,Tecnologia,Analista de Dados,Júnior,3500.35,2022-10-01,,Sim,,10.0,20,1,0,57
+F0024,Funcionário 24,24,Masculino,Solteiro(a),Belo Horizonte,Marketing,Designer,Pleno,5499.85,2024-02-13,2025-02-16,Não,Desligamento,10.0,16,2,1,23
+F0025,Funcionário 25,23,Masculino,Divorciado(a),Fortaleza,Operações,Gerente,Júnior,3230.94,2019-09-26,,Sim,,7.5,52,4,2,56
+F0026,Funcionário 26,52,Masculino,Viúvo(a),Belo Horizonte,Marketing,Designer,Júnior,4348.66,2020-12-28,2025-06-01,Não,Aposentadoria,6.3,109,2,0,43
+F0027,Funcionário 27,56,Masculino,Solteiro(a),São Paulo,Comercial,Coordenador Comercial,Júnior,4192.99,2021-09-06,,Sim,,6.1,86,3,0,17
+F0028,Funcionário 28,29,Masculino,Casado(a),Belo Horizonte,Tecnologia,Analista de Dados,Sênior,10463.77,2022-11-15,,Sim,,8.6,65,1,1,1
+F0029,Funcionário 29,41,Feminino,Viúvo(a),Belo Horizonte,Operações,Supervisor,Especialista,18965.2,2022-01-31,,Sim,,5.6,15,4,1,36
+F0030,Funcionário 30,58,Masculino,Solteiro(a),Belo Horizonte,Comercial,Gerente de Contas,Pleno,7119.96,2022-09-19,,Sim,,5.7,22,3,0,51
+F0031,Funcionário 31,32,Feminino,Divorciado(a),Porto Alegre,Operações,Coordenador,Sênior,10800.28,2023-03-20,,Sim,,8.2,94,5,0,53
+F0032,Funcionário 32,26,Masculino,Casado(a),Recife,Comercial,SDR,Júnior,3047.79,2020-07-09,,Sim,,3.5,60,4,0,16
+F0033,Funcionário 33,37,Feminino,Solteiro(a),Curitiba,Comercial,Vendedor,Júnior,4241.47,2019-03-13,,Sim,,6.6,71,2,2,43
+F0034,Funcionário 34,57,Masculino,Casado(a),Recife,Operações,Coordenador,Sênior,10771.5,2022-12-18,,Sim,,5.6,106,4,0,49
+F0035,Funcionário 35,42,Feminino,Solteiro(a),Rio de Janeiro,Comercial,SDR,Júnior,3667.8,2023-11-06,,Sim,,7.0,42,2,0,45
+F0036,Funcionário 36,35,Feminino,Viúvo(a),Fortaleza,Comercial,Gerente de Contas,Pleno,6358.0,2018-09-21,,Sim,,6.1,7,5,2,2
+F0037,Funcionário 37,56,Feminino,Casado(a),Curitiba,Operações,Gerente,Júnior,3589.23,2023-05-08,2024-10-29,Não,Desligamento,9.4,68,3,0,2
+F0038,Funcionário 38,56,Masculino,Viúvo(a),Porto Alegre,RH,HRBP,Sênior,12637.94,2022-07-15,,Sim,,5.4,79,5,1,6
+F0039,Funcionário 39,46,Masculino,Viúvo(a),Belo Horizonte,Marketing,Gerente de Marketing,Júnior,3384.75,2019-07-10,,Sim,,6.4,43,1,0,48
+F0040,Funcionário 40,23,Feminino,Casado(a),Fortaleza,Operações,Analista de Operações,Sênior,11432.9,2021-12-04,2022-10-20,Não,Pedido Demissão,8.7,96,5,0,9
+F0041,Funcionário 41,29,Feminino,Casado(a),Belo Horizonte,RH,Analista de RH,Pleno,5791.86,2024-04-29,,Sim,,5.8,95,1,1,60
+F0042,Funcionário 42,37,Masculino,Divorciado(a),Fortaleza,Financeiro,Tesoureiro,Júnior,3907.55,2022-06-13,,Sim,,8.7,106,5,2,51
+F0043,Funcionário 43,53,Masculino,Divorciado(a),Recife,Operações,Analista de Operações,Sênior,8810.31,2021-11-23,,Sim,,7.1,53,4,1,28
+F0044,Funcionário 44,39,Masculino,Casado(a),Fortaleza,Comercial,SDR,Pleno,7329.48,2024-01-14,,Sim,,7.0,75,1,0,29
+F0045,Funcionário 45,44,Feminino,Divorciado(a),Belo Horizonte,Comercial,Coordenador Comercial,Pleno,5177.49,2024-05-23,,Sim,,7.8,27,5,1,18
+F0046,Funcionário 46,57,Feminino,Viúvo(a),Recife,Operações,Analista de Operações,Júnior,4109.12,2023-10-18,,Sim,,6.4,62,4,0,2
+F0047,Funcionário 47,49,Não-binário,Divorciado(a),Belo Horizonte,Tecnologia,Dev Frontend,Júnior,4020.74,2020-06-26,,Sim,,5.9,44,4,0,17
+F0048,Funcionário 48,33,Masculino,Viúvo(a),Belo Horizonte,Comercial,Vendedor,Sênior,12778.95,2020-02-28,,Sim,,8.6,88,5,3,34
+F0049,Funcionário 49,39,Masculino,Solteiro(a),Porto Alegre,Operações,Coordenador,Júnior,3543.39,2019-02-16,,Sim,,6.4,16,3,1,9
+F0050,Funcionário 50,43,Masculino,Solteiro(a),Belo Horizonte,Marketing,Gerente de Marketing,Pleno,6367.37,2019-02-25,,Sim,,9.4,56,4,0,5
+F0051,Funcionário 51,37,Masculino,Viúvo(a),Porto Alegre,RH,Coordenador de RH,Sênior,9182.77,2018-10-31,,Sim,,8.6,10,5,1,15
+F0052,Funcionário 52,41,Feminino,Solteiro(a),Porto Alegre,Operações,Gerente,Júnior,3901.93,2023-01-20,,Sim,,3.8,54,1,2,14
+F0053,Funcionário 53,52,Masculino,Casado(a),Belo Horizonte,Marketing,Designer,Júnior,3248.76,2020-12-19,,Sim,,7.3,57,3,1,30
+F0054,Funcionário 54,34,Masculino,Casado(a),Recife,Tecnologia,Dev Backend,Pleno,6885.19,2020-12-19,,Sim,,7.2,119,2,2,53
+F0055,Funcionário 55,41,Feminino,Divorciado(a),Porto Alegre,Comercial,Vendedor,Pleno,7325.45,2018-09-02,2022-08-11,Não,Acordo,8.6,59,4,0,3
+F0056,Funcionário 56,23,Não-binário,Divorciado(a),Porto Alegre,RH,HRBP,Especialista,18392.72,2020-10-22,2022-08-01,Não,Pedido Demissão,6.4,73,2,0,42
+F0057,Funcionário 57,43,Masculino,Solteiro(a),Fortaleza,RH,HRBP,Pleno,7298.46,2020-01-14,,Sim,,8.9,52,2,0,45
+F0058,Funcionário 58,38,Masculino,Viúvo(a),Fortaleza,RH,HRBP,Pleno,6328.03,2022-06-29,,Sim,,6.9,40,5,2,1
+F0059,Funcionário 59,57,Masculino,Divorciado(a),Curitiba,Marketing,Gerente de Marketing,Pleno,6445.93,2022-08-20,2025-02-25,Não,Acordo,6.7,34,1,0,41
+F0060,Funcionário 60,29,Masculino,Solteiro(a),Recife,Operações,Supervisor,Júnior,3617.59,2019-10-11,,Sim,,7.4,28,2,0,46
+F0061,Funcionário 61,54,Feminino,Casado(a),Fortaleza,Financeiro,Controler,Especialista,14395.18,2022-08-29,,Sim,,5.8,117,1,0,51
+F0062,Funcionário 62,53,Feminino,Viúvo(a),Porto Alegre,RH,HRBP,Júnior,4118.53,2023-09-11,,Sim,,6.7,107,4,0,36
+F0063,Funcionário 63,48,Masculino,Viúvo(a),Recife,Operações,Gerente,Sênior,12913.49,2023-02-09,,Sim,,7.3,109,4,0,43
+F0064,Funcionário 64,28,Feminino,Viúvo(a),São Paulo,Marketing,Designer,Júnior,4495.43,2023-07-22,,Sim,,8.7,42,5,2,1
+F0065,Funcionário 65,47,Feminino,Divorciado(a),Fortaleza,Marketing,Designer,Especialista,13255.09,2022-08-07,,Sim,,7.4,79,5,0,21
+F0066,Funcionário 66,36,Feminino,Viúvo(a),São Paulo,Marketing,Gerente de Marketing,Júnior,4052.93,2024-01-26,2024-10-02,Não,Pedido Demissão,6.0,36,4,0,20
+F0067,Funcionário 67,33,Masculino,Solteiro(a),Porto Alegre,Tecnologia,Analista de Dados,Júnior,3565.37,2021-08-21,,Sim,,8.3,72,4,1,16
+F0068,Funcionário 68,51,Feminino,Casado(a),São Paulo,RH,Recrutador,Júnior,3377.14,2020-08-09,,Sim,,8.7,1,4,2,38
+F0069,Funcionário 69,58,Masculino,Divorciado(a),Recife,Financeiro,Tesoureiro,Pleno,7798.31,2020-10-21,,Sim,,7.6,48,3,0,54
+F0070,Funcionário 70,53,Feminino,Divorciado(a),Fortaleza,Marketing,Gerente de Marketing,Sênior,12881.21,2021-01-29,2025-06-01,Não,Desligamento,6.6,116,5,2,15
+F0071,Funcionário 71,24,Masculino,Viúvo(a),São Paulo,Marketing,Designer,Sênior,11466.32,2020-10-23,,Sim,,8.3,115,5,0,9
+F0072,Funcionário 72,45,Feminino,Divorciado(a),Fortaleza,Tecnologia,Dev Frontend,Júnior,3183.15,2021-08-31,,Sim,,5.4,69,2,0,53
+F0073,Funcionário 73,47,Não-binário,Divorciado(a),São Paulo,RH,HRBP,Pleno,5303.31,2021-10-19,,Sim,,7.2,86,4,0,35
+F0074,Funcionário 74,45,Masculino,Casado(a),Curitiba,Tecnologia,QA,Sênior,11130.52,2022-02-18,,Sim,,6.1,105,1,1,36
+F0075,Funcionário 75,24,Masculino,Viúvo(a),São Paulo,Financeiro,Contador,Pleno,6992.91,2018-09-16,,Sim,,6.8,5,1,0,35
+F0076,Funcionário 76,48,Feminino,Casado(a),Curitiba,Comercial,Coordenador Comercial,Especialista,17451.27,2023-02-02,,Sim,,6.6,69,1,2,40
+F0077,Funcionário 77,45,Feminino,Divorciado(a),São Paulo,RH,HRBP,Júnior,3675.4,2018-05-15,,Sim,,7.3,87,4,0,8
+F0078,Funcionário 78,43,Masculino,Casado(a),Fortaleza,RH,Analista de RH,Pleno,5157.67,2020-05-18,,Sim,,8.6,100,5,0,54
+F0079,Funcionário 79,31,Não-binário,Divorciado(a),Fortaleza,Operações,Supervisor,Júnior,4194.63,2020-06-03,,Sim,,7.7,35,2,0,56
+F0080,Funcionário 80,33,Masculino,Casado(a),Recife,Tecnologia,Dev Backend,Sênior,11149.84,2018-03-02,,Sim,,5.2,2,4,1,48
+F0081,Funcionário 81,55,Masculino,Solteiro(a),São Paulo,Tecnologia,QA,Pleno,5394.45,2023-01-11,,Sim,,3.6,5,4,2,28
+F0082,Funcionário 82,31,Masculino,Divorciado(a),Porto Alegre,Marketing,Analista de Marketing,Pleno,7528.02,2023-07-02,,Sim,,7.1,41,5,1,21
+F0083,Funcionário 83,57,Feminino,Casado(a),Curitiba,RH,HRBP,Pleno,7241.36,2023-02-02,,Sim,,8.8,112,4,2,27
+F0084,Funcionário 84,38,Masculino,Casado(a),Recife,Financeiro,Tesoureiro,Júnior,3647.15,2022-06-22,,Sim,,8.6,85,4,0,54
+F0085,Funcionário 85,43,Feminino,Viúvo(a),Belo Horizonte,Tecnologia,Analista de Dados,Pleno,5451.31,2022-11-04,2025-05-28,Não,Acordo,10.0,71,1,3,39
+F0086,Funcionário 86,28,Masculino,Divorciado(a),São Paulo,Financeiro,Controler,Júnior,4009.36,2019-03-01,,Sim,,8.6,28,3,1,52
+F0087,Funcionário 87,31,Feminino,Viúvo(a),São Paulo,RH,Analista de RH,Sênior,9890.43,2020-12-31,2023-01-09,Não,Desligamento,7.1,111,1,0,34
+F0088,Funcionário 88,58,Feminino,Solteiro(a),Rio de Janeiro,Comercial,Coordenador Comercial,Júnior,3465.83,2022-09-16,,Sim,,7.3,41,2,1,4
+F0089,Funcionário 89,29,Masculino,Solteiro(a),Belo Horizonte,Marketing,Analista de Marketing,Pleno,6739.11,2021-01-19,,Sim,,6.3,65,5,0,43
+F0090,Funcionário 90,35,Feminino,Divorciado(a),Belo Horizonte,Financeiro,Analista Financeiro,Pleno,5120.76,2020-06-22,,Sim,,7.7,38,3,0,32
+F0091,Funcionário 91,47,Feminino,Solteiro(a),Curitiba,Marketing,Gerente de Marketing,Sênior,10751.18,2019-12-21,2023-06-13,Não,Pedido Demissão,8.6,9,4,2,56
+F0092,Funcionário 92,42,Masculino,Viúvo(a),Fortaleza,Financeiro,Tesoureiro,Pleno,5410.97,2022-07-15,,Sim,,4.8,2,3,0,55
+F0093,Funcionário 93,32,Masculino,Solteiro(a),Porto Alegre,Tecnologia,Dev Backend,Pleno,6168.57,2022-11-20,,Sim,,6.7,42,5,0,50
+F0094,Funcionário 94,26,Masculino,Viúvo(a),Curitiba,Financeiro,Controler,Júnior,3248.26,2019-08-28,2021-10-15,Não,Acordo,8.5,19,5,1,40
+F0095,Funcionário 95,54,Masculino,Viúvo(a),Curitiba,Financeiro,Controler,Pleno,6804.74,2019-09-11,,Sim,,7.8,45,1,0,54
+F0096,Funcionário 96,24,Masculino,Casado(a),Belo Horizonte,Financeiro,Analista Financeiro,Pleno,6349.32,2019-01-05,,Sim,,5.3,70,5,0,10
+F0097,Funcionário 97,37,Feminino,Viúvo(a),Porto Alegre,Tecnologia,QA,Sênior,12920.74,2019-02-28,,Sim,,9.1,5,5,1,24
+F0098,Funcionário 98,43,Masculino,Solteiro(a),Porto Alegre,Financeiro,Controler,Pleno,6714.29,2022-05-06,,Sim,,8.3,101,4,0,47
+F0099,Funcionário 99,30,Feminino,Solteiro(a),Belo Horizonte,Marketing,Designer,Júnior,3525.97,2021-09-27,2025-12-14,Não,Acordo,9.5,50,3,2,43
+F0100,Funcionário 100,43,Feminino,Viúvo(a),Rio de Janeiro,Marketing,Analista de Marketing,Júnior,3461.46,2022-10-01,,Sim,,6.7,27,2,3,10
+F0101,Funcionário 101,30,Feminino,Casado(a),Rio de Janeiro,Tecnologia,Dev Frontend,Pleno,7094.34,2019-02-19,,Sim,,5.0,112,2,2,50
+F0102,Funcionário 102,40,Feminino,Viúvo(a),Rio de Janeiro,Operações,Supervisor,Sênior,9568.89,2022-11-28,2024-06-03,Não,Desligamento,6.8,56,3,3,51
+F0103,Funcionário 103,55,Masculino,Casado(a),Fortaleza,RH,Recrutador,Pleno,6289.61,2022-02-15,,Sim,,7.5,64,2,2,9
+F0104,Funcionário 104,55,Feminino,Divorciado(a),São Paulo,Financeiro,Analista Financeiro,Pleno,5376.99,2023-05-23,,Sim,,4.6,108,2,0,58
+F0105,Funcionário 105,47,Feminino,Casado(a),Curitiba,Operações,Supervisor,Júnior,3685.53,2022-11-27,2025-12-13,Não,Pedido Demissão,7.0,6,3,0,21
+F0106,Funcionário 106,30,Feminino,Viúvo(a),Curitiba,Tecnologia,Dev Frontend,Especialista,15939.07,2019-08-22,2023-05-08,Não,Pedido Demissão,7.5,106,1,0,14
+F0107,Funcionário 107,51,Masculino,Viúvo(a),Porto Alegre,Comercial,Coordenador Comercial,Júnior,3166.91,2019-04-01,,Sim,,7.4,79,5,0,33
+F0108,Funcionário 108,48,Masculino,Solteiro(a),Porto Alegre,Operações,Supervisor,Júnior,3530.69,2019-08-12,,Sim,,9.3,73,3,0,34
+F0109,Funcionário 109,26,Masculino,Solteiro(a),Fortaleza,Operações,Analista de Operações,Júnior,3584.34,2022-05-19,,Sim,,5.5,45,5,1,22
+F0110,Funcionário 110,51,Não-binário,Viúvo(a),Recife,Comercial,Vendedor,Sênior,9287.9,2021-12-14,,Sim,,9.0,99,2,2,5
+F0111,Funcionário 111,47,Não-binário,Viúvo(a),Belo Horizonte,Marketing,Gerente de Marketing,Júnior,3289.16,2018-06-01,,Sim,,10.0,65,1,1,13
+F0112,Funcionário 112,49,Feminino,Viúvo(a),Curitiba,Financeiro,Controler,Pleno,5436.08,2018-07-15,,Sim,,8.1,47,3,3,32
+F0113,Funcionário 113,33,Feminino,Divorciado(a),São Paulo,Marketing,Gerente de Marketing,Pleno,7263.1,2022-02-13,,Sim,,7.1,77,1,0,19
+F0114,Funcionário 114,44,Feminino,Viúvo(a),Belo Horizonte,Financeiro,Tesoureiro,Pleno,5214.36,2022-10-12,2024-07-07,Não,Pedido Demissão,6.6,111,1,1,26
+F0115,Funcionário 115,45,Masculino,Solteiro(a),Porto Alegre,Financeiro,Contador,Sênior,10471.78,2018-05-08,2025-08-27,Não,Desligamento,8.0,82,4,2,24
+F0116,Funcionário 116,29,Masculino,Casado(a),Curitiba,RH,Analista de RH,Pleno,6853.81,2019-07-18,,Sim,,8.0,31,5,0,36
+F0117,Funcionário 117,29,Masculino,Solteiro(a),Curitiba,Tecnologia,Dev Frontend,Júnior,3938.71,2020-12-02,,Sim,,5.3,25,2,2,29
+F0118,Funcionário 118,32,Feminino,Casado(a),Fortaleza,Tecnologia,Dev Frontend,Pleno,5883.98,2021-11-24,,Sim,,2.1,38,3,1,8
+F0119,Funcionário 119,30,Feminino,Solteiro(a),São Paulo,Comercial,Gerente de Contas,Júnior,3847.58,2020-08-27,,Sim,,5.4,70,3,0,46
+F0120,Funcionário 120,42,Feminino,Viúvo(a),Curitiba,Marketing,Gerente de Marketing,Pleno,6652.23,2023-11-24,,Sim,,9.2,16,5,0,57
+F0121,Funcionário 121,32,Masculino,Casado(a),Belo Horizonte,Operações,Supervisor,Especialista,13124.04,2019-06-13,,Sim,,7.8,21,5,2,55
+F0122,Funcionário 122,56,Masculino,Casado(a),Porto Alegre,Tecnologia,Dev Frontend,Pleno,5437.96,2020-03-15,,Sim,,7.8,38,5,0,43
+F0123,Funcionário 123,58,Masculino,Solteiro(a),Curitiba,Operações,Coordenador,Júnior,4468.96,2024-04-27,2024-11-07,Não,Aposentadoria,7.4,26,3,0,52
+F0124,Funcionário 124,52,Masculino,Divorciado(a),Porto Alegre,Marketing,Gerente de Marketing,Sênior,9211.36,2021-05-03,,Sim,,6.0,53,2,0,46
+F0125,Funcionário 125,37,Masculino,Solteiro(a),Belo Horizonte,Financeiro,Controler,Pleno,5386.7,2022-06-22,2025-01-15,Não,Acordo,7.2,57,5,0,56
+F0126,Funcionário 126,41,Feminino,Solteiro(a),Curitiba,Comercial,SDR,Pleno,6489.76,2021-07-04,2022-11-22,Não,Acordo,8.0,63,2,0,23
+F0127,Funcionário 127,28,Masculino,Divorciado(a),Recife,Tecnologia,Analista de Dados,Sênior,11444.17,2021-02-26,,Sim,,5.4,108,3,1,24
+F0128,Funcionário 128,46,Feminino,Divorciado(a),Fortaleza,Tecnologia,QA,Júnior,3846.33,2018-07-29,,Sim,,7.5,9,5,1,8
+F0129,Funcionário 129,54,Masculino,Solteiro(a),São Paulo,Comercial,Vendedor,Especialista,16515.36,2022-06-02,,Sim,,6.6,77,1,0,22
+F0130,Funcionário 130,42,Masculino,Divorciado(a),Porto Alegre,RH,Coordenador de RH,Pleno,5985.51,2019-09-03,,Sim,,7.8,78,3,1,33
+F0131,Funcionário 131,41,Feminino,Solteiro(a),Porto Alegre,Operações,Gerente,Sênior,10157.61,2024-04-24,,Sim,,5.3,74,4,0,42
+F0132,Funcionário 132,46,Masculino,Casado(a),São Paulo,Operações,Supervisor,Júnior,3965.71,2018-07-30,,Sim,,3.5,79,5,2,8
+F0133,Funcionário 133,52,Feminino,Solteiro(a),Recife,Comercial,Vendedor,Júnior,4062.54,2022-12-12,,Sim,,5.0,117,2,1,36
+F0134,Funcionário 134,43,Feminino,Divorciado(a),Porto Alegre,Financeiro,Tesoureiro,Especialista,15852.73,2023-11-23,,Sim,,8.6,68,4,0,16
+F0135,Funcionário 135,42,Masculino,Divorciado(a),Belo Horizonte,Financeiro,Controler,Especialista,17955.43,2020-07-10,,Sim,,6.6,62,1,1,35
+F0136,Funcionário 136,27,Masculino,Viúvo(a),Recife,RH,Coordenador de RH,Sênior,9807.04,2021-11-14,,Sim,,5.0,36,3,1,14
+F0137,Funcionário 137,55,Masculino,Casado(a),São Paulo,Comercial,SDR,Júnior,3944.69,2024-04-21,,Sim,,6.2,85,1,0,46
+F0138,Funcionário 138,52,Masculino,Casado(a),Fortaleza,RH,Analista de RH,Pleno,7624.59,2019-07-18,2021-10-21,Não,Aposentadoria,6.6,112,3,0,4
+F0139,Funcionário 139,33,Feminino,Solteiro(a),Fortaleza,Tecnologia,DevOps,Sênior,12715.01,2020-08-09,,Sim,,8.0,112,4,1,12
+F0140,Funcionário 140,40,Masculino,Viúvo(a),Rio de Janeiro,Marketing,Social Media,Pleno,7606.83,2018-06-03,2025-04-13,Não,Acordo,6.7,42,3,0,8
+F0141,Funcionário 141,34,Masculino,Viúvo(a),Fortaleza,Financeiro,Contador,Sênior,8563.38,2023-02-23,,Sim,,6.5,86,4,1,6
+F0142,Funcionário 142,38,Masculino,Viúvo(a),Fortaleza,RH,Analista de RH,Pleno,7626.73,2020-01-27,,Sim,,8.3,0,3,3,20
+F0143,Funcionário 143,54,Feminino,Divorciado(a),Recife,Operações,Analista de Operações,Sênior,8779.56,2020-12-07,,Sim,,8.1,51,1,1,19
+F0144,Funcionário 144,45,Masculino,Viúvo(a),Fortaleza,Financeiro,Contador,Pleno,6328.44,2020-06-16,,Sim,,8.1,77,5,2,53
+F0145,Funcionário 145,57,Feminino,Casado(a),Porto Alegre,Comercial,Gerente de Contas,Pleno,6076.82,2018-12-02,,Sim,,7.8,106,5,0,21
+F0146,Funcionário 146,54,Masculino,Solteiro(a),Curitiba,Operações,Gerente,Sênior,10699.73,2019-04-22,,Sim,,6.8,115,2,1,30
+F0147,Funcionário 147,35,Feminino,Solteiro(a),Curitiba,Operações,Analista de Operações,Sênior,11754.76,2024-04-07,,Sim,,5.0,95,3,1,35
+F0148,Funcionário 148,48,Masculino,Viúvo(a),Curitiba,Tecnologia,Analista de Dados,Júnior,3188.3,2023-04-18,2024-12-06,Não,Acordo,8.9,82,4,0,43
+F0149,Funcionário 149,23,Não-binário,Viúvo(a),Recife,Operações,Supervisor,Pleno,5443.84,2021-11-25,2025-05-28,Não,Acordo,10.0,96,5,0,15
+F0150,Funcionário 150,24,Feminino,Viúvo(a),Porto Alegre,Comercial,Coordenador Comercial,Especialista,17643.91,2021-11-18,2023-06-07,Não,Pedido Demissão,6.8,14,2,0,7
+F0151,Funcionário 151,56,Masculino,Solteiro(a),Rio de Janeiro,Operações,Analista de Operações,Sênior,8719.04,2023-01-03,,Sim,,7.1,29,5,3,15
+F0152,Funcionário 152,41,Masculino,Casado(a),Recife,Marketing,Social Media,Especialista,16268.44,2021-08-06,2022-11-22,Não,Acordo,5.7,52,5,0,23
+F0153,Funcionário 153,37,Feminino,Divorciado(a),Fortaleza,Marketing,Gerente de Marketing,Pleno,5502.89,2023-11-19,,Sim,,5.4,60,2,2,59
+F0154,Funcionário 154,38,Masculino,Solteiro(a),Curitiba,Tecnologia,DevOps,Pleno,5462.05,2022-08-18,,Sim,,9.0,31,3,0,47
+F0155,Funcionário 155,57,Masculino,Casado(a),Fortaleza,Comercial,Vendedor,Pleno,5206.78,2021-01-04,,Sim,,9.6,75,3,0,59
+F0156,Funcionário 156,37,Feminino,Casado(a),Curitiba,Tecnologia,Dev Backend,Júnior,4549.33,2020-02-18,,Sim,,8.4,61,2,1,50
+F0157,Funcionário 157,52,Feminino,Divorciado(a),Rio de Janeiro,Financeiro,Tesoureiro,Pleno,5806.22,2023-03-25,,Sim,,5.4,12,3,0,3
+F0158,Funcionário 158,46,Feminino,Casado(a),Curitiba,Operações,Supervisor,Júnior,3284.0,2019-08-21,2024-10-23,Não,Aposentadoria,7.1,29,3,1,32
+F0159,Funcionário 159,56,Não-binário,Solteiro(a),Porto Alegre,Marketing,Gerente de Marketing,Pleno,5477.89,2023-03-03,2025-11-21,Não,Pedido Demissão,6.3,113,1,2,43
+F0160,Funcionário 160,54,Masculino,Solteiro(a),Porto Alegre,Tecnologia,Analista de Dados,Júnior,3212.87,2022-08-17,2024-05-31,Não,Acordo,6.9,27,4,0,35
+F0161,Funcionário 161,33,Masculino,Solteiro(a),Porto Alegre,Operações,Gerente,Pleno,5874.06,2018-02-18,2021-09-15,Não,Desligamento,4.9,55,2,0,34
+F0162,Funcionário 162,58,Masculino,Casado(a),Belo Horizonte,Financeiro,Controler,Júnior,4485.89,2020-12-30,,Sim,,7.2,58,1,1,55
+F0163,Funcionário 163,53,Feminino,Divorciado(a),Porto Alegre,Marketing,Analista de Marketing,Pleno,6385.21,2019-01-18,,Sim,,5.7,10,1,2,59
+F0164,Funcionário 164,24,Feminino,Divorciado(a),Porto Alegre,Tecnologia,Dev Backend,Sênior,11050.53,2020-05-15,,Sim,,5.4,34,5,1,12
+F0165,Funcionário 165,58,Masculino,Viúvo(a),Recife,Financeiro,Analista Financeiro,Sênior,11707.2,2020-04-28,,Sim,,6.7,20,5,0,49
+F0166,Funcionário 166,36,Feminino,Divorciado(a),Porto Alegre,Marketing,Designer,Especialista,13112.45,2018-11-18,,Sim,,7.6,55,5,3,26
+F0167,Funcionário 167,46,Masculino,Divorciado(a),Fortaleza,Financeiro,Analista Financeiro,Pleno,5715.97,2021-01-24,,Sim,,5.8,23,2,1,6
+F0168,Funcionário 168,45,Masculino,Solteiro(a),Belo Horizonte,Financeiro,Contador,Pleno,7097.07,2022-04-06,,Sim,,6.7,40,4,0,18
+F0169,Funcionário 169,27,Feminino,Divorciado(a),Fortaleza,Tecnologia,Dev Backend,Pleno,6483.59,2018-12-24,2024-07-03,Não,Acordo,7.7,70,1,0,25
+F0170,Funcionário 170,39,Masculino,Viúvo(a),Rio de Janeiro,Tecnologia,DevOps,Júnior,3574.65,2020-09-21,,Sim,,7.6,17,1,0,18
+F0171,Funcionário 171,34,Masculino,Casado(a),Belo Horizonte,RH,HRBP,Pleno,7649.4,2023-06-07,,Sim,,6.9,78,1,2,22
+F0172,Funcionário 172,30,Masculino,Casado(a),Curitiba,Operações,Gerente,Pleno,7323.55,2021-09-11,,Sim,,5.5,83,3,0,26
+F0173,Funcionário 173,29,Feminino,Casado(a),Porto Alegre,Financeiro,Controler,Sênior,9966.49,2023-07-05,,Sim,,6.7,46,5,0,50
+F0174,Funcionário 174,26,Feminino,Viúvo(a),Recife,Operações,Analista de Operações,Júnior,4231.35,2023-03-06,,Sim,,9.8,106,4,0,20
+F0175,Funcionário 175,56,Feminino,Viúvo(a),Porto Alegre,Comercial,SDR,Sênior,8832.84,2019-09-24,,Sim,,8.9,51,1,1,24
+F0176,Funcionário 176,24,Feminino,Viúvo(a),Fortaleza,Marketing,Analista de Marketing,Sênior,10097.54,2019-03-24,,Sim,,7.1,82,3,3,28
+F0177,Funcionário 177,45,Masculino,Casado(a),Belo Horizonte,Tecnologia,Analista de Dados,Pleno,6500.75,2019-02-08,,Sim,,5.5,57,1,0,19
+F0178,Funcionário 178,51,Feminino,Viúvo(a),Belo Horizonte,RH,Analista de RH,Sênior,10067.48,2019-04-21,,Sim,,6.2,43,4,0,47
+F0179,Funcionário 179,32,Feminino,Casado(a),Porto Alegre,Marketing,Gerente de Marketing,Sênior,9017.88,2021-07-30,2022-04-27,Não,Desligamento,8.5,86,5,0,36
+F0180,Funcionário 180,49,Masculino,Casado(a),Curitiba,RH,Coordenador de RH,Pleno,5603.24,2020-08-07,,Sim,,5.4,84,5,0,1
+F0181,Funcionário 181,33,Masculino,Casado(a),Curitiba,Marketing,Designer,Sênior,12082.04,2020-04-22,,Sim,,4.8,68,1,0,56
+F0182,Funcionário 182,51,Feminino,Divorciado(a),Porto Alegre,RH,HRBP,Pleno,6039.4,2022-05-11,,Sim,,5.9,108,5,0,9
+F0183,Funcionário 183,58,Masculino,Casado(a),Curitiba,Financeiro,Analista Financeiro,Júnior,4067.16,2020-09-04,,Sim,,5.6,17,5,1,42
+F0184,Funcionário 184,25,Feminino,Solteiro(a),Curitiba,Comercial,Gerente de Contas,Júnior,4301.13,2023-06-29,,Sim,,7.1,79,2,0,25
+F0185,Funcionário 185,36,Masculino,Divorciado(a),Rio de Janeiro,Operações,Gerente,Pleno,7367.71,2022-08-03,,Sim,,6.6,3,5,0,50
+F0186,Funcionário 186,45,Feminino,Solteiro(a),Fortaleza,RH,Coordenador de RH,Pleno,5823.3,2024-03-01,,Sim,,7.2,69,4,1,28
+F0187,Funcionário 187,29,Feminino,Casado(a),Rio de Janeiro,Tecnologia,Dev Backend,Júnior,3388.93,2021-05-04,,Sim,,7.6,110,5,1,56
+F0188,Funcionário 188,25,Feminino,Divorciado(a),Porto Alegre,Marketing,Gerente de Marketing,Sênior,12160.88,2019-11-11,,Sim,,6.7,103,5,0,46
+F0189,Funcionário 189,48,Feminino,Divorciado(a),Fortaleza,Financeiro,Controler,Pleno,7530.42,2020-12-31,,Sim,,7.5,96,2,1,9
+F0190,Funcionário 190,31,Feminino,Divorciado(a),Recife,Comercial,Gerente de Contas,Sênior,11543.06,2021-08-12,,Sim,,6.5,62,4,0,5
+F0191,Funcionário 191,22,Feminino,Solteiro(a),Recife,Marketing,Analista de Marketing,Júnior,4449.73,2022-07-09,,Sim,,4.7,41,4,1,45
+F0192,Funcionário 192,39,Masculino,Divorciado(a),Belo Horizonte,Financeiro,Analista Financeiro,Especialista,18317.72,2023-12-30,,Sim,,9.9,63,5,1,37
+F0193,Funcionário 193,34,Não-binário,Casado(a),Recife,RH,HRBP,Júnior,4438.86,2018-07-18,2024-03-10,Não,Aposentadoria,8.1,54,2,2,57
+F0194,Funcionário 194,25,Masculino,Divorciado(a),Recife,Financeiro,Analista Financeiro,Pleno,7540.26,2022-01-16,,Sim,,8.6,21,2,0,6
+F0195,Funcionário 195,43,Feminino,Viúvo(a),Recife,Marketing,Analista de Marketing,Júnior,3331.25,2018-01-05,2019-05-19,Não,Desligamento,7.1,89,4,0,25
+F0196,Funcionário 196,30,Feminino,Casado(a),São Paulo,Tecnologia,Analista de Dados,Sênior,9117.08,2019-02-27,,Sim,,7.0,99,5,1,40
+F0197,Funcionário 197,35,Masculino,Solteiro(a),Rio de Janeiro,Marketing,Designer,Júnior,4153.52,2022-12-08,,Sim,,9.0,56,1,1,25
+F0198,Funcionário 198,57,Feminino,Divorciado(a),Fortaleza,Financeiro,Tesoureiro,Júnior,3990.28,2021-07-12,,Sim,,6.2,31,1,2,43
+F0199,Funcionário 199,37,Feminino,Solteiro(a),Rio de Janeiro,Financeiro,Contador,Júnior,3592.01,2023-10-22,,Sim,,5.6,101,4,1,5
+F0200,Funcionário 200,48,Masculino,Casado(a),Fortaleza,Operações,Analista de Operações,Júnior,4330.78,2022-01-19,,Sim,,5.1,72,4,3,50
+F0201,Funcionário 201,54,Feminino,Viúvo(a),Recife,Tecnologia,Analista de Dados,Júnior,3070.24,2018-10-04,2021-09-01,Não,Acordo,7.6,80,1,1,35
+F0202,Funcionário 202,31,Feminino,Viúvo(a),Porto Alegre,Operações,Supervisor,Pleno,5648.63,2021-02-10,2022-01-17,Não,Pedido Demissão,5.5,103,3,1,47
+F0203,Funcionário 203,33,Masculino,Casado(a),Recife,Comercial,Vendedor,Júnior,3939.37,2020-09-28,2023-09-02,Não,Pedido Demissão,9.3,84,2,0,23
+F0204,Funcionário 204,29,Feminino,Solteiro(a),Belo Horizonte,Operações,Coordenador,Sênior,12430.57,2019-11-15,,Sim,,8.0,93,4,0,5
+F0205,Funcionário 205,28,Feminino,Solteiro(a),Rio de Janeiro,Financeiro,Analista Financeiro,Pleno,6448.95,2023-07-26,,Sim,,5.9,32,5,0,55
+F0206,Funcionário 206,24,Feminino,Viúvo(a),Rio de Janeiro,Tecnologia,Dev Backend,Pleno,5505.23,2018-07-08,,Sim,,6.6,119,3,0,59
+F0207,Funcionário 207,55,Não-binário,Viúvo(a),São Paulo,Marketing,Social Media,Pleno,5422.38,2021-01-16,,Sim,,7.0,28,4,2,50
+F0208,Funcionário 208,41,Feminino,Casado(a),Curitiba,Financeiro,Controler,Júnior,3291.06,2018-12-20,,Sim,,6.8,72,3,1,32
+F0209,Funcionário 209,43,Masculino,Viúvo(a),Fortaleza,Comercial,Gerente de Contas,Júnior,3827.93,2019-09-09,2024-10-11,Não,Aposentadoria,5.7,1,1,0,16
+F0210,Funcionário 210,36,Feminino,Viúvo(a),Recife,RH,Coordenador de RH,Júnior,3415.72,2018-09-03,,Sim,,5.5,5,3,0,48
+F0211,Funcionário 211,30,Masculino,Divorciado(a),Fortaleza,Tecnologia,DevOps,Pleno,6164.75,2019-01-27,,Sim,,6.7,84,3,2,26
+F0212,Funcionário 212,28,Masculino,Casado(a),Curitiba,Marketing,Social Media,Júnior,4461.1,2021-07-26,,Sim,,6.9,17,4,0,8
+F0213,Funcionário 213,24,Masculino,Divorciado(a),Rio de Janeiro,Operações,Coordenador,Pleno,7401.7,2020-04-30,,Sim,,9.5,38,1,1,23
+F0214,Funcionário 214,50,Feminino,Casado(a),São Paulo,RH,Analista de RH,Especialista,12959.8,2021-05-09,,Sim,,8.7,51,4,0,51
+F0215,Funcionário 215,27,Feminino,Divorciado(a),Fortaleza,Comercial,Vendedor,Júnior,4272.29,2018-02-18,2021-02-12,Não,Pedido Demissão,5.7,82,1,3,13
+F0216,Funcionário 216,32,Feminino,Viúvo(a),Fortaleza,Marketing,Gerente de Marketing,Júnior,4459.09,2019-06-12,2023-08-28,Não,Acordo,8.7,6,4,0,44
+F0217,Funcionário 217,37,Feminino,Viúvo(a),Curitiba,RH,Recrutador,Júnior,3677.47,2021-12-20,2023-07-06,Não,Acordo,8.4,78,1,0,25
+F0218,Funcionário 218,56,Feminino,Viúvo(a),Fortaleza,Comercial,Coordenador Comercial,Sênior,9621.16,2020-03-27,,Sim,,8.9,102,3,0,51
+F0219,Funcionário 219,39,Masculino,Viúvo(a),Porto Alegre,RH,HRBP,Pleno,5585.5,2024-05-05,,Sim,,6.8,114,3,1,15
+F0220,Funcionário 220,25,Feminino,Casado(a),Porto Alegre,Comercial,Vendedor,Júnior,4260.65,2020-10-12,,Sim,,8.2,117,4,0,54
+F0221,Funcionário 221,44,Feminino,Casado(a),Porto Alegre,Comercial,Gerente de Contas,Sênior,11639.32,2020-08-26,,Sim,,7.5,89,2,2,52
+F0222,Funcionário 222,23,Feminino,Solteiro(a),Belo Horizonte,RH,HRBP,Júnior,3341.38,2019-12-21,,Sim,,7.0,28,5,0,9
+F0223,Funcionário 223,45,Não-binário,Divorciado(a),Recife,Financeiro,Contador,Pleno,7576.51,2021-08-18,2022-12-13,Não,Acordo,7.6,110,5,0,20
+F0224,Funcionário 224,42,Masculino,Divorciado(a),Rio de Janeiro,Financeiro,Contador,Pleno,6826.02,2019-10-08,,Sim,,4.3,62,5,2,25
+F0225,Funcionário 225,24,Masculino,Divorciado(a),Fortaleza,Financeiro,Controler,Especialista,19153.71,2019-06-06,2019-12-10,Não,Desligamento,3.5,72,5,0,32
+F0226,Funcionário 226,43,Masculino,Divorciado(a),Rio de Janeiro,Comercial,SDR,Júnior,4369.38,2018-11-15,2022-12-12,Não,Desligamento,10.0,11,1,0,51
+F0227,Funcionário 227,44,Feminino,Solteiro(a),Fortaleza,Tecnologia,Analista de Dados,Sênior,12860.96,2018-07-17,,Sim,,8.5,48,4,1,37
+F0228,Funcionário 228,42,Masculino,Solteiro(a),São Paulo,Marketing,Designer,Sênior,8650.36,2019-10-29,,Sim,,6.0,2,3,0,25
+F0229,Funcionário 229,23,Masculino,Casado(a),Porto Alegre,Comercial,Vendedor,Especialista,15031.17,2024-02-19,,Sim,,10.0,90,4,0,7
+F0230,Funcionário 230,38,Feminino,Divorciado(a),Rio de Janeiro,Financeiro,Contador,Pleno,7599.05,2020-02-18,,Sim,,6.9,69,1,0,37
+F0231,Funcionário 231,28,Masculino,Casado(a),Recife,Operações,Gerente,Pleno,5895.28,2019-09-22,2020-04-04,Não,Aposentadoria,6.1,25,1,0,8
+F0232,Funcionário 232,46,Masculino,Viúvo(a),Belo Horizonte,Financeiro,Tesoureiro,Sênior,8910.12,2023-04-13,,Sim,,5.5,69,2,0,17
+F0233,Funcionário 233,44,Feminino,Viúvo(a),Fortaleza,RH,Coordenador de RH,Pleno,5508.05,2020-12-14,2022-12-14,Não,Desligamento,7.0,85,5,0,25
+F0234,Funcionário 234,52,Masculino,Viúvo(a),Fortaleza,Operações,Gerente,Especialista,16615.82,2024-01-03,,Sim,,6.6,30,1,1,58
+F0235,Funcionário 235,30,Masculino,Solteiro(a),Recife,Operações,Supervisor,Pleno,7662.47,2019-05-08,,Sim,,7.7,24,4,0,53
+F0236,Funcionário 236,46,Feminino,Divorciado(a),Fortaleza,Marketing,Designer,Sênior,12133.05,2020-11-22,,Sim,,8.1,11,3,1,59
+F0237,Funcionário 237,28,Feminino,Solteiro(a),Fortaleza,Tecnologia,DevOps,Júnior,3210.69,2023-11-11,,Sim,,5.4,120,3,2,57
+F0238,Funcionário 238,33,Masculino,Casado(a),Porto Alegre,Financeiro,Tesoureiro,Pleno,6744.2,2020-12-17,,Sim,,6.4,4,5,1,26
+F0239,Funcionário 239,41,Masculino,Viúvo(a),Fortaleza,Tecnologia,QA,Júnior,3723.47,2021-09-19,,Sim,,7.0,43,1,3,15
+F0240,Funcionário 240,27,Masculino,Casado(a),Fortaleza,Comercial,SDR,Pleno,7067.76,2022-12-20,,Sim,,8.6,77,4,1,49
+F0241,Funcionário 241,55,Feminino,Solteiro(a),Rio de Janeiro,Operações,Coordenador,Júnior,3465.02,2018-08-19,,Sim,,6.4,108,2,2,13
+F0242,Funcionário 242,45,Feminino,Viúvo(a),Recife,Tecnologia,Dev Backend,Especialista,17506.28,2018-05-16,,Sim,,7.2,35,1,1,16
+F0243,Funcionário 243,27,Masculino,Viúvo(a),São Paulo,Financeiro,Tesoureiro,Pleno,6588.6,2023-01-02,2025-12-08,Não,Desligamento,5.6,33,5,1,14
+F0244,Funcionário 244,22,Masculino,Casado(a),Recife,Comercial,Gerente de Contas,Pleno,5154.14,2020-04-26,,Sim,,9.6,99,2,1,1
+F0245,Funcionário 245,38,Masculino,Divorciado(a),Recife,Comercial,SDR,Sênior,9739.2,2021-06-05,,Sim,,9.5,58,5,2,26
+F0246,Funcionário 246,57,Feminino,Divorciado(a),Belo Horizonte,Operações,Analista de Operações,Sênior,12294.78,2018-01-31,,Sim,,5.4,47,1,0,22
+F0247,Funcionário 247,37,Feminino,Viúvo(a),Recife,Financeiro,Controler,Sênior,12515.68,2021-02-08,,Sim,,6.9,97,3,1,47
+F0248,Funcionário 248,58,Feminino,Divorciado(a),Recife,Tecnologia,QA,Pleno,6148.34,2021-04-25,,Sim,,8.0,4,2,1,41
+F0249,Funcionário 249,30,Feminino,Casado(a),Recife,RH,HRBP,Júnior,4010.74,2023-09-09,,Sim,,6.0,60,3,1,15
+F0250,Funcionário 250,40,Masculino,Solteiro(a),Curitiba,Financeiro,Contador,Sênior,10172.57,2021-06-11,,Sim,,6.8,74,1,2,38
+F0251,Funcionário 251,31,Masculino,Casado(a),Belo Horizonte,Operações,Analista de Operações,Pleno,7442.24,2023-04-19,,Sim,,6.3,6,4,3,58
+F0252,Funcionário 252,33,Masculino,Solteiro(a),São Paulo,RH,Recrutador,Júnior,3102.28,2021-07-19,,Sim,,8.1,42,4,0,49
+F0253,Funcionário 253,52,Masculino,Solteiro(a),Porto Alegre,Comercial,Gerente de Contas,Sênior,9082.33,2023-06-29,,Sim,,5.7,54,2,1,1
+F0254,Funcionário 254,44,Masculino,Solteiro(a),Curitiba,Financeiro,Contador,Pleno,5771.82,2018-03-15,,Sim,,7.8,88,5,1,11
+F0255,Funcionário 255,30,Masculino,Viúvo(a),Belo Horizonte,Tecnologia,Analista de Dados,Pleno,6504.78,2021-05-06,,Sim,,5.6,87,2,0,59
+F0256,Funcionário 256,32,Masculino,Solteiro(a),Curitiba,RH,Analista de RH,Júnior,3009.51,2020-07-24,2021-10-15,Não,Aposentadoria,7.0,64,5,1,39
+F0257,Funcionário 257,35,Feminino,Solteiro(a),Belo Horizonte,Tecnologia,Analista de Dados,Pleno,6126.69,2018-03-22,2020-01-05,Não,Acordo,5.6,19,1,1,18
+F0258,Funcionário 258,40,Masculino,Solteiro(a),Curitiba,Operações,Supervisor,Júnior,4107.06,2022-09-12,,Sim,,6.7,15,2,1,50
+F0259,Funcionário 259,52,Masculino,Solteiro(a),São Paulo,Financeiro,Contador,Júnior,3037.06,2022-01-06,,Sim,,6.2,119,1,2,54
+F0260,Funcionário 260,28,Feminino,Casado(a),Curitiba,Operações,Gerente,Sênior,8837.72,2019-09-03,,Sim,,7.2,92,3,0,4
+F0261,Funcionário 261,24,Masculino,Casado(a),Recife,Tecnologia,Dev Backend,Pleno,6927.27,2018-06-11,,Sim,,6.5,108,2,0,58
+F0262,Funcionário 262,51,Masculino,Viúvo(a),Recife,RH,HRBP,Pleno,5407.35,2019-01-16,,Sim,,7.5,51,4,1,42
+F0263,Funcionário 263,52,Feminino,Viúvo(a),Rio de Janeiro,Comercial,Vendedor,Júnior,4459.39,2019-06-27,,Sim,,8.0,75,5,0,23
+F0264,Funcionário 264,24,Masculino,Divorciado(a),São Paulo,Operações,Analista de Operações,Pleno,7496.5,2019-06-20,,Sim,,8.5,56,5,1,37
+F0265,Funcionário 265,44,Feminino,Viúvo(a),Rio de Janeiro,Marketing,Designer,Sênior,11282.08,2021-10-17,,Sim,,5.0,61,5,2,40
+F0266,Funcionário 266,26,Feminino,Divorciado(a),Rio de Janeiro,Tecnologia,Analista de Dados,Pleno,6438.75,2019-10-05,,Sim,,8.2,21,3,3,4
+F0267,Funcionário 267,27,Feminino,Viúvo(a),Belo Horizonte,Operações,Supervisor,Pleno,5734.5,2024-03-04,,Sim,,4.6,57,1,3,48
+F0268,Funcionário 268,27,Feminino,Divorciado(a),Porto Alegre,Marketing,Analista de Marketing,Júnior,3839.83,2019-02-25,,Sim,,7.9,105,5,0,43
+F0269,Funcionário 269,52,Feminino,Divorciado(a),Recife,RH,HRBP,Sênior,12299.43,2022-01-28,,Sim,,5.9,76,4,0,49
+F0270,Funcionário 270,57,Feminino,Solteiro(a),São Paulo,Marketing,Designer,Sênior,12839.95,2018-01-09,,Sim,,9.4,37,2,0,53
+F0271,Funcionário 271,34,Feminino,Solteiro(a),Fortaleza,Marketing,Gerente de Marketing,Júnior,3165.17,2019-03-15,,Sim,,7.8,105,4,0,41
+F0272,Funcionário 272,22,Feminino,Solteiro(a),Porto Alegre,Marketing,Analista de Marketing,Pleno,6461.33,2023-01-20,,Sim,,6.4,63,4,2,31
+F0273,Funcionário 273,46,Masculino,Casado(a),Belo Horizonte,Operações,Supervisor,Júnior,3585.16,2019-12-13,,Sim,,4.7,64,4,3,19
+F0274,Funcionário 274,57,Feminino,Casado(a),Rio de Janeiro,RH,Recrutador,Sênior,11867.92,2019-07-20,,Sim,,5.4,38,2,1,19
+F0275,Funcionário 275,29,Feminino,Viúvo(a),Porto Alegre,Marketing,Social Media,Sênior,12812.47,2019-06-28,,Sim,,4.9,41,5,2,46
+F0276,Funcionário 276,25,Feminino,Casado(a),Belo Horizonte,RH,HRBP,Pleno,5168.23,2022-09-27,,Sim,,7.1,18,2,3,44
+F0277,Funcionário 277,57,Feminino,Viúvo(a),Rio de Janeiro,Financeiro,Contador,Júnior,4161.91,2018-09-12,,Sim,,9.9,13,5,1,52
+F0278,Funcionário 278,42,Não-binário,Solteiro(a),São Paulo,Marketing,Social Media,Pleno,7683.1,2018-07-12,,Sim,,7.8,87,3,0,56
+F0279,Funcionário 279,50,Masculino,Solteiro(a),Rio de Janeiro,RH,Recrutador,Pleno,6729.14,2022-02-15,,Sim,,7.8,37,2,1,8
+F0280,Funcionário 280,38,Masculino,Viúvo(a),Recife,RH,Analista de RH,Júnior,3228.46,2022-10-22,,Sim,,3.4,108,2,0,60
+F0281,Funcionário 281,33,Feminino,Casado(a),Curitiba,Financeiro,Analista Financeiro,Pleno,6066.83,2021-05-18,,Sim,,7.5,28,5,1,6
+F0282,Funcionário 282,55,Masculino,Solteiro(a),São Paulo,Financeiro,Contador,Pleno,5892.65,2020-05-23,,Sim,,5.9,96,3,0,58
+F0283,Funcionário 283,40,Masculino,Divorciado(a),Porto Alegre,Marketing,Designer,Pleno,7573.02,2018-06-13,,Sim,,8.6,69,5,0,3
+F0284,Funcionário 284,56,Feminino,Solteiro(a),Rio de Janeiro,Financeiro,Contador,Especialista,13879.91,2021-08-05,,Sim,,6.7,98,2,2,28
+F0285,Funcionário 285,31,Masculino,Divorciado(a),São Paulo,Tecnologia,Dev Backend,Sênior,11836.19,2024-01-12,,Sim,,4.7,9,1,0,12
+F0286,Funcionário 286,49,Masculino,Viúvo(a),Recife,Financeiro,Analista Financeiro,Pleno,6318.04,2020-07-21,,Sim,,8.3,51,1,1,42
+F0287,Funcionário 287,27,Masculino,Viúvo(a),Curitiba,Marketing,Analista de Marketing,Júnior,4436.68,2018-07-06,,Sim,,9.3,38,4,2,2
+F0288,Funcionário 288,31,Masculino,Divorciado(a),São Paulo,RH,Recrutador,Sênior,12322.6,2023-12-26,2025-07-28,Não,Desligamento,8.8,37,1,0,37
+F0289,Funcionário 289,48,Feminino,Casado(a),Rio de Janeiro,Operações,Gerente,Júnior,3305.83,2024-01-10,,Sim,,7.1,27,2,0,54
+F0290,Funcionário 290,51,Feminino,Solteiro(a),Belo Horizonte,Financeiro,Contador,Sênior,12695.66,2019-04-15,2020-05-21,Não,Pedido Demissão,4.8,70,3,0,47
+F0291,Funcionário 291,42,Feminino,Divorciado(a),Porto Alegre,Operações,Gerente,Sênior,9555.4,2021-09-17,,Sim,,7.1,24,3,1,10
+F0292,Funcionário 292,36,Feminino,Viúvo(a),Belo Horizonte,Operações,Coordenador,Júnior,3468.31,2021-07-19,,Sim,,7.8,100,3,0,47
+F0293,Funcionário 293,39,Feminino,Casado(a),Porto Alegre,Financeiro,Tesoureiro,Sênior,10691.37,2023-03-11,,Sim,,8.9,10,2,0,57
+F0294,Funcionário 294,47,Feminino,Casado(a),São Paulo,Marketing,Analista de Marketing,Sênior,11342.32,2018-11-05,,Sim,,8.6,104,5,0,58
+F0295,Funcionário 295,54,Feminino,Viúvo(a),Belo Horizonte,Operações,Gerente,Júnior,4191.13,2019-09-01,,Sim,,7.1,59,5,0,16
+F0296,Funcionário 296,31,Feminino,Viúvo(a),Belo Horizonte,Operações,Supervisor,Júnior,4469.22,2023-10-07,2024-09-14,Não,Pedido Demissão,6.0,84,2,1,15
+F0297,Funcionário 297,24,Masculino,Divorciado(a),São Paulo,Tecnologia,Dev Frontend,Pleno,7236.94,2022-02-22,2023-10-18,Não,Aposentadoria,4.6,112,3,1,37
+F0298,Funcionário 298,38,Masculino,Casado(a),Porto Alegre,Comercial,Coordenador Comercial,Sênior,12259.61,2022-03-31,,Sim,,9.4,66,4,0,56
+F0299,Funcionário 299,39,Masculino,Casado(a),Rio de Janeiro,Financeiro,Tesoureiro,Júnior,4364.2,2023-05-29,,Sim,,6.2,65,3,1,53
+F0300,Funcionário 300,52,Masculino,Casado(a),Recife,Tecnologia,Dev Backend,Sênior,10666.82,2022-08-26,,Sim,,7.6,61,4,0,3
