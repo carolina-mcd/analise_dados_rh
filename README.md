@@ -22,6 +22,10 @@ Explorar um dataset fictício de 300 funcionários para extrair insights sobre t
 - O fator que mais influencia o turnover é o tempo de empresa (36%)
 - Taxa geral de turnover: 21%
 
+<img width="1174" height="580" alt="image" src="https://github.com/user-attachments/assets/4b569e24-9391-4cb5-a17c-951f1e02659a" />
+
+
+
 ## 🤖 Modelo de Machine Learning
 Random Forest para prever risco de turnover com 80% de acurácia.
 
@@ -30,3 +34,5 @@ Random Forest para prever risco de turnover com 80% de acurácia.
 2. Abra o Google Colab
 3. Faça o upload dos arquivos
 4. Execute as células em ordem
+
+
